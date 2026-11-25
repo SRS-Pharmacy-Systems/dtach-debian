@@ -1,3 +1,4 @@
 gitignore.patch
 makefile.patch
 0003-reproducibly-remove-date-and-time-macros.patch
+0004-Only-use-async-signal-safe-calls-in-the-die-signal-h.patch

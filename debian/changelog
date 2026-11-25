@@ -1,3 +1,10 @@
+dtach (0.9-5+srs1) UNRELEASED; urgency=medium
+
+  * Only use async-signal-safe calls in die() (upstream PR, fork
+    e58586e).
+
+ -- Chad Mothersell <dev@srspharmacy.com>  Wed, 25 Nov 2026 10:48:20 -0500
+
 dtach (0.9-5) unstable; urgency=low
 
   * Fix vcswatch
